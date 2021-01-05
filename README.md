@@ -1,0 +1,1 @@
+Exercícios resolvidos durante as trilhas de estudo. 
